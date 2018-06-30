@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">guardian news</string>
+    <string name="story_image_thumbnail">story image thumbnail</string>
+    <string name="story_headline_demo">Brexit is a disaster\' &#8211;  experts debate the latest economic data</string>
+    <string name="trial_text_demo">Two former members of Bank of England’s interest rate-setting committee examine why UK growth lags its EU rivals</string>
+    <string name="not_defined">NOT DEFINED</string>
+    <string name="no_internet_connection">No Internet Connection!</string>
+    <string name="no_stories">No stories to be shown.</string>
+    <string name="about">About</string>
+    <string name="back">Back</string>
+    <string name="more">More</string>
+    <string name="this_app_was">This App was created by\nWISEMO\nOne of the Google | Udacity Developer schoolarship winners\n2017&#8211;2018</string>
+    <string name="google_udacity_logos" translatable="false">google_udacity_logos</string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+    <string name="settings_search_label">Keyword</string>
+    <string name="settings_search_key" translatable="false">news</string>
+    <string name="settings_search_default" translatable="false" />
+    <string name="settings_search_summary">To search with a keyword for news stories</string>
+
+    <string name="settings_date_label">Date</string>
+    <string name="settings_date_key" translatable="false">date_key</string>
+    <string name="settings_date_default" translatable="false" />
+    <string name="settings_date_summary">Specify a date for your search like 2018&#8211;05&#8211;31</string>
+
+    <string name="settings_images_label">Images</string>
+    <string name="settings_images_key" translatable="false">thumbnail</string>
+    <string name="settings_images_default" translatable="false">true</string>
+    <string name="settings_images_summary">Uncheck here and images will not be loaded</string>
+
+    <string name="settings_author_label">Story Author</string>
+    <string name="settings_author_key" translatable="false">contributor</string>
+    <string name="settings_author_default" translatable="false">false</string>
+    <string name="settings_author_summary">Check and the news author will be displayed</string>
+</resources>

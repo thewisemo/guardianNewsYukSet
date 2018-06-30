@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings_title">
+    <PreferenceCategory android:title="Search by">
+        <!--Search keyword EditText Pref-->
+        <EditTextPreference
+            android:defaultValue="@string/settings_search_default"
+            android:inputType="textAutoComplete"
+            android:key="@string/settings_search_key"
+            android:selectAllOnFocus="true"
+            android:summary="@string/settings_search_summary"
+            android:title="@string/settings_search_label" />
+        <!--Date Pref-->
+        <EditTextPreference
+            android:defaultValue="@string/settings_date_default"
+            android:inputType="textAutoCorrect"
+            android:key="@string/settings_date_key"
+            android:summary="@string/settings_date_summary"
+            android:title="@string/settings_date_label" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="More settings">
+        <!--Story load image Pref-->
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="@string/settings_images_key"
+            android:summary="@string/settings_images_summary"
+            android:title="@string/settings_images_label" />
+        <!--Story author Pref-->
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="@string/settings_author_key"
+            android:summary="@string/settings_author_summary"
+            android:title="@string/settings_author_label" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
