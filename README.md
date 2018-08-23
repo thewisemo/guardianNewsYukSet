@@ -2,7 +2,7 @@
 This is a sub version for reviewing submission for the 7th project in the Google | Udacity scholarship program "News App-Stage Two",
 with the settings menu as a toolBar menu button.
 
-
+![forgit](https://user-images.githubusercontent.com/33489751/44515975-263af900-a6c4-11e8-9861-ab3240dfeb31.png)
 
 Here are the News App, Stage 2 PROJECT SPECIFICATION "Rubrics" :-
 
