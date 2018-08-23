@@ -1,4 +1,4 @@
-# guardianNewsYukSet
+# guardian news
 This is a sub version for reviewing submission for the 7th project in the Google | Udacity scholarship program "News App-Stage Two",
 with the settings menu as a toolBar menu button.
 
